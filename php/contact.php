@@ -66,7 +66,17 @@
         if($array["isSuccess"]) 
         {
             $headers = "From: {$array['firstname']} {$array['name']} <{$array['email']}>\r\nReply-To: {$array['email']}";
-            mail($emailTo, "Un message de votre site", $emailText, $headers);
+            // mail($emailTo, "Un message de votre site", $emailText, $headers);
+            
+            ini_set("SMTP", "aspmx.l.google.com");
+            ini_set("sendmail_from", "aubakirov.abil@gmail.com");
+
+            $message = "The mail message was sent with the following mail setting:\r\nSMTP = aspmx.l.google.com\r\nsmtp_port = 25\r\nsendmail_from = YourMail@address.com";
+
+            // $headers = "From: YOURMAIL@gmail.com";
+
+            mail($emailTo, "Testing", $message, $headers);
+            echo "Check your email now....&lt;BR/>";
         }
         
         echo json_encode($array);
