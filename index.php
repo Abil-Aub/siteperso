@@ -105,7 +105,7 @@
 			<ul class="timeline">
 				<li>
 					<div class="timeline-badge"><span class="glyphicon glyphicon-briefcase"></span></div>
-					<div class="timeline-panel-container">
+					<div class="timeline-panel-container timeline-panel-container-inverted">
 						<div class="timeline-panel">
 							<div class="timeline-heading">
 								<h3>GOOGLE</h3>
@@ -122,7 +122,7 @@
 				</li>
 				<li>
 					<div class="timeline-badge"><span class="glyphicon glyphicon-briefcase"></span></div>
-					<div class="timeline-panel-container-inverted">
+					<div class="timeline-panel-container">
 						<div class="timeline-panel">
 							<div class="timeline-heading">
 								<h3>FACEBOOK</h3>
@@ -138,7 +138,7 @@
 				</li>
 				<li>
 					<div class="timeline-badge"><span class="glyphicon glyphicon-briefcase"></span></div>
-					<div class="timeline-panel-container">
+					<div class="timeline-panel-container timeline-panel-container-inverted">
 						<div class="timeline-panel">
 							<div class="timeline-heading">
 								<h3>TWITTER</h3>
