@@ -108,14 +108,13 @@
 					<div class="timeline-panel-container timeline-panel-container-inverted">
 						<div class="timeline-panel">
 							<div class="timeline-heading">
-								<h3>GOOGLE</h3>
-								<h4>Senior Web Developer</h4>
-								<p class="text-muted"><small class="glyphicon glyphicon-time"></small> 2013-2015</p>
+								<h3>ESME <span style="color:gray; font-size: 10px;">Ivry sur Seine, FRANCE</span></h3>
+								<h4>Lecturer</h4>
+								<p class="text-muted"><small class="glyphicon glyphicon-time"></small> 2020-2021</p>
 							</div>
 							<div class="timeline-body">
-								<p>Ajout de la possibilité d'écouter une traduction dans Google Translate</p>
-								<p>Développement de Google Suggest en mode Offline</p>
-								<p>Nouveau design du player de Youtube adapté au mobile</p>
+								<p>Python practice course</p>
+								<p>Introduction to discrete mathematics</p>
 							</div>
 						</div>
 					</div>
@@ -125,13 +124,13 @@
 					<div class="timeline-panel-container">
 						<div class="timeline-panel">
 							<div class="timeline-heading">
-								<h3>FACEBOOK</h3>
-								<h4>Web Developer</h4>
-								<p class="text-muted"><small class="glyphicon glyphicon-time"></small> 2010-2013</p>
+								<h3>EFREI <span style="color:gray; font-size: 10px;">Villejuif, FRANCE</span></h3>
+								<h4>Lecturer</h4>
+								<p class="text-muted"><small class="glyphicon glyphicon-time"></small> 2019-2021</p>
 							</div>
 							<div class="timeline-body">
-								<p>Développement du bouton Share pour les applis Web mobile</p>
-								<p>Lancement automatique des vidéos en mode mute depuis la Timeline</p>
+								<p>Mathematics for cryptography</p>
+								<p>Probability and statistics</p>
 							</div>
 						</div>
 					</div>
@@ -141,13 +140,13 @@
 					<div class="timeline-panel-container timeline-panel-container-inverted">
 						<div class="timeline-panel">
 							<div class="timeline-heading">
-								<h3>TWITTER</h3>
-								<h4>Junior Web Developer</h4>
-								<p class="text-muted"><small class="glyphicon glyphicon-time"></small> 2007-2010</p>
+								<h3>Suleyman Demirel University <span style="color:gray; font-size: 10px;">Almaty, KAZAKHSTAN</span></h3>
+								<h4>Senior Lecturer</h4>
+								<p class="text-muted"><small class="glyphicon glyphicon-time"></small> 2015-2017</p>
 							</div>
 							<div class="timeline-body">
-								<p>Création et Développement du Retweet pour l'appli Web</p>
-								<p>Intégration des vidéos sur les applis web mobile</p>
+								<p>Introduction to elementary algorithms</p>
+								<p>Numerical methods</p>
 							</div>
 						</div>
 					</div>
@@ -167,24 +166,24 @@
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="education-block">
-						<h5>2002 - 2006</h5>
+						<h5>2014</h5>
 						<span class="glyphicon glyphicon-education"></span>
-						<h3>Ecole Polytechnique - Paris</h3>
-						<h4>Diplome d'ingenieur informatique</h4>
+						<h3>Cergy-Pontoise University</h3>
+						<h4>Docteur en Mathematiques Applliques</h4>
 						<div class="red-divider"></div>
-						<p>Intelligence Artificielle</p>
-						<p>Systeme d'informations</p>
+						<p>Finite Elements Method</p>
+						<p>Impedance Boundary Conditions</p>
 					</div>
 				</div>
 				<div class="col-sm-6">
 					<div class="education-block">
-						<h5>2007</h5>
+						<h5>2021</h5>
 						<span class="glyphicon glyphicon-education"></span>
-						<h3>Apprendre-a-coder.com</h3>
-						<h4>Formation online "Web Developer"</h4>
+						<h3>Udemy.com</h3>
+						<h4>"Web Developer" and "Python Developer"</h4>
 						<div class="red-divider"></div>
-						<p>HTML, CSS, Javascript, jQuery</p>
-						<p>Responsove Design</p>
+						<p>HTML, CSS, JavaScript, jQuery</p>
+						<p>Python, Django</p>
 					</div>
 				</div>
 			</div>
@@ -200,38 +199,22 @@
 			</div>
 			<div class="row">
 				<div class="col-sm-4">
-					<a class="thumbnail" href="http://www.facebook.com" target="_blank">
-						<img src="images/facebook_share.png" alt="facebook share">
+					<a class="thumbnail" href="sites/voyage" target="_blank">
+						<img src="images/voyage.png" alt="voyage agency">
 					</a>
 				</div>
 				<div class="col-sm-4">
-					<a class="thumbnail" href="http://www.twitter.com" target="_blank">
-						<img src="images/twitter_video.png" alt="twitter video">
+					<a class="thumbnail" href="sites/serpent" target="_blank">
+						<img src="images/serpent.png" alt="snake game">
 					</a>
 				</div>
 				<div class="col-sm-4">
-					<a class="thumbnail" href="http://www.google.com" target="_blank">
-						<img src="images/google_translate.png" alt="google translate">
+					<a class="thumbnail" href="sites/actrices" target="_blank">
+						<img src="images/actrices.png" alt="top 5 actrices">
 					</a>
 				</div>
 			</div>
-			<div class="row">
-				<div class="col-sm-4">
-					<a class="thumbnail" href="http://www.youtube.com" target="_blank">
-						<img src="images/youtube.png" alt="youtube">
-					</a>
-				</div>
-				<div class="col-sm-4">
-					<a class="thumbnail" href="http://www.twitter.com" target="_blank">
-						<img src="images/twitter_retweet.png" alt="twitter retweet">
-					</a>
-				</div>
-				<div class="col-sm-4">
-					<a class="thumbnail" href="http://www.facebook.com" target="_blank">
-						<img src="images/facebook_video.png" alt="facebook video">
-					</a>
-				</div>
-			</div>
+
 		</div>
 	</section>
 
