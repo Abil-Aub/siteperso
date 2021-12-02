@@ -205,12 +205,29 @@
 				</div>
 				<div class="col-sm-4">
 					<a class="thumbnail" href="sites/serpent" target="_blank">
-						<img src="images/serpent.png" alt="snake game">
+						<img src="images/logo_snake.png" alt="snake game">
 					</a>
 				</div>
 				<div class="col-sm-4">
-					<a class="thumbnail" href="sites/actrices" target="_blank">
-						<img src="images/actrices.png" alt="top 5 actrices">
+					<a class="thumbnail" href="sites/mmagoats" target="_blank">
+						<img src="images/logo_mmagoats.png" alt="top 5 actrices">
+					</a>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-4">
+					<a class="thumbnail" href="sites/tictactoe" target="_blank">
+						<img src="images/logo_tictactoe.png" alt="voyage agency">
+					</a>
+				</div>
+				<div class="col-sm-4">
+					<a class="thumbnail" href="sites/fifteen" target="_blank">
+						<img src="images/logo_fifteen.png" alt="snake game">
+					</a>
+				</div>
+				<div class="col-sm-4">
+					<a class="thumbnail" href="sites/burgercode" target="_blank">
+						<img src="images/logo_burgercode.png" alt="top 5 actrices">
 					</a>
 				</div>
 			</div>
